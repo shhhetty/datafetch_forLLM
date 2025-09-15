@@ -30,7 +30,7 @@ I designed and built a configuration-driven Python pipeline that automates this 
 
 ## How to Run Locally
 1. Clone the repository:
-    git clone https://github.com/satvik@adeptmind/datafetch.git
+    git clone https://github.com/shhhetty/datafetch_forLLM.git
 
 2. Navigate to the project directory:
     cd datafetch

@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-BASE_URL = "https://search-prod-dlp-adept-search.search-prod.adeptmind.app/search"
+BASE_URL = "xxx"
 
 class BaseParser(ABC):
     """Abstract Base Class defining the interface for all retailer-specific parsers."""
